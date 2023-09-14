@@ -1,6 +1,9 @@
+CPW  WHITE PAPER
+
+
 <head>
 <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<title>COMPANION PET WORLD   CPW  WHITE PAPER</title>
+
 <meta name="author" content="BNK SOLUTION">
 <meta name="description" content="CPW 화이트페이퍼">
 <meta name="keywords" content="CPW 화이트페이퍼  BNK SOLUTION  가상화폐">
@@ -59,7 +62,7 @@
                         </td>
                     </tr>
                 </table>
-                <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/img3.jpg" width="664" height="120" border="0"><br>&nbsp;</font></p>
+                <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/img/img3.jpg" width="664" height="120" border="0"><br>&nbsp;</font></p>
                 <table align="center" border="0" width="809">
                     <tr>
                         <td width="840">
@@ -144,7 +147,7 @@
                             to integrate them.</font></p>
                             <p><font face="Inter">.............................................................................................................................................................................................</font></p>
                             <p><font face="Inter">&nbsp;</font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mainimg/s1.jpg" width="730" height="539" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s1.jpg" width="730" height="539" border="0"></font></p>
                             <p><font face="Inter"><span style="font-size:24pt;"><b>&nbsp;</b></span></font></p>
                             <p><font face="Inter"><span style="font-size:24pt;"><b>3. 
                             Companion Pet World Platform</b></span></font></p>
@@ -189,7 +192,7 @@
                             &nbsp;&nbsp;down records todescendants.</font></p>
                             <p><font face="Inter">.............................................................................................................................................................................................</font></p>
                             <p><font face="Inter"><b><span style="font-size:14pt;">Certificate of Authentication</span></b></font></p>
-                            <p><font face="Inter"><img src="mainimg/certi.JPG" width="376" height="272" border="0"></font></p>
+                            <p><font face="Inter"><img src="http://companionpetworld.com/mainimg/certi.JPG" width="376" height="272" border="0"></font></p>
                             <p><font face="Inter">&nbsp;</font></p>
                             <p><font face="Inter">Companion Pet World collects 
                             the DNA of pets before adoption through partnership 
@@ -201,7 +204,7 @@
                             or a disease occurs, pet DNA data can be actively 
                             used.</font></p>
                             <p><font face="Inter">&nbsp;</font></p>
-                            <p><font face="Inter"><img src="mainimg/s2.jpg" width="744" height="866" border="0"></font></p>
+                            <p><font face="Inter"><img src="http://companionpetworld.com/mainimg/s2.jpg" width="744" height="866" border="0"></font></p>
                             <p><font face="Inter">&nbsp;<br>&nbsp;</font></p>
                             <p><font face="Inter"><span style="font-size:18pt;"><b>3.2 The value of Pet Chain 
                             that connects companionanimal data</b></span></font></p>
@@ -250,7 +253,7 @@
                             services providing a user environment and offlinebase 
                             is convenient to use.</font></p>
                             <p><font face="Inter">.......................................................................................................................................................</font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="mainimg/s3.jpg" width="747" height="906" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s3.jpg" width="747" height="906" border="0"></font></p>
                             <p><font face="Inter">The Companion Pet World platform 
                             starts with healthy and reliable companion animal 
                             adoption. This includes a DNA ancestry test. The 
@@ -274,7 +277,7 @@
                             can viewand verify it at any time. Partnerships 
                             with expert groups are added to provide total lifecare 
                             and tracking for pets.</font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="mainimg/s4.jpg" width="750" height="459" border="0"><br><br><br><br><span style="font-size:28pt;"><b>4. 
+                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s4.jpg" width="750" height="459" border="0"><br><br><br><br><span style="font-size:28pt;"><b>4. 
                             Wallet and Connected Business</b></span></font></p>
                             <p><font face="Inter">Through the Companion Pet 
                             World platform, we want to help all pets in the 
@@ -312,7 +315,7 @@
                             hotels, and training constitute the overall pet 
                             service. &nbsp;</font></p>
                             <p>&nbsp;</p>
-                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mainimg/s5.jpg" width="760" height="886" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s5.jpg" width="760" height="886" border="0"></font></p>
                             <p><font face="Inter">Companion Pet World Wallet 
                             and PAY Expansion Companion Pet World offers Tron-based 
                             tokens and wallets at low fees and fast transfer 
@@ -328,7 +331,7 @@
                             the future, which will strengthen the platform and 
                             aimfor an open tokenomey where everyone can update 
                             better services.</font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;<img src="mainimg/s6.jpg" width="735" height="396" border="0"><br>&nbsp;</font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s6.jpg" width="735" height="396" border="0"><br>&nbsp;</font></p>
                             <p><font face="Inter"><span style="font-size:18pt;"><b>4.2 Business Expansion</b></span></font></p>
                             <p><font face="Inter">The combination of the Companion 
                             Pet World service and Pet CHAIN sufficient tobuild 
@@ -346,7 +349,7 @@
                             <p><font face="Inter">&nbsp;</font></p>
                             <p>&nbsp;</p>
                             <p><font face="Inter"><span style="font-size:28pt;"><b>5. Ecosystem Expansion</b></span></font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;<img src="mainimg/s7.jpg" width="765" height="819" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s7.jpg" width="765" height="819" border="0"></font></p>
                             <p><font face="Inter">&nbsp;</font></p>
                             <p><font face="Inter">Pet Chain starts registering 
                             pet data through pet examination. Genetic information, 
@@ -362,7 +365,7 @@
                             <table align="center" border="0" width="765">
                                 <tr>
                                     <td width="305">
-                                        <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;<img src="mainimg/s9.jpg" width="236" height="466" border="0"></font></p>
+                                        <p><font face="Inter">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s9.jpg" width="236" height="466" border="0"></font></p>
                                     </td>
                                     <td width="450">
                                         <p><font face="Inter">The Companion 
@@ -403,9 +406,9 @@
                             be used at Pet Town, Companion Pet Worldplatform 
                             and additional global franchises.<br>&nbsp;</font></p>
                             <p><font face="Inter"><span style="font-size:18pt;"><b>6.1 Key Information</b></span></font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;<img src="mainimg/s10.jpg" width="768" height="309" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/s10.jpg" width="768" height="309" border="0"></font></p>
                             <p><font face="Inter">.....................................................................................................................................................</font></p>
-                            <p><font face="Inter"><img src="mainimg/s11.jpg" width="768" height="459" border="0"></font></p>
+                            <p><font face="Inter"><img src="http://companionpetworld.com/mainimg/s11.jpg" width="768" height="459" border="0"></font></p>
                             <p><font face="Inter">&nbsp;</font></p>
                             <p><font face="Inter"><span style="font-size:18pt;"><b>6.2 &nbsp;Tokenomix</b></span></font></p>
                             <p><font face="Inter">Companion Pet World's business 
@@ -435,21 +438,21 @@
                             CUSTOMER and SUPPLIER within the CPW Platform are 
                             used to stabilize the platform and provide better 
                             services.<br><br>..........................................................................................................................................................<br><br> 
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mainimg/6-4.jpg" width="736" height="488" border="0"><br></font></p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/6-4.jpg" width="736" height="488" border="0"><br></font></p>
                             <p><span style="font-size:28pt;"><b><font face="Inter">&nbsp;</font></b></span></p>
                             <p><font face="Inter"><br><span style="font-size:28pt;"><b>7. 
                             Companion Pet World Team</b></span></font></p>
-                            <p><font face="Inter"><br> &nbsp;&nbsp;&nbsp;&nbsp;<img src="mainimg/7-1.jpg" width="744" height="480" border="0"><br><br> 
-                            &nbsp;&nbsp;<img src="mainimg/7-1.jpg" width="744" height="480" border="0"><br><br><br><b><span style="font-size:28pt;">8. 
+                            <p><font face="Inter"><br> &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/7-1.jpg" width="744" height="480" border="0"><br><br> 
+                            &nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/7-1.jpg" width="744" height="480" border="0"><br><br><br><b><span style="font-size:28pt;">8. 
                             Roadmap</span></b><br><b><span style="font-size:14pt;"><br>Plan to promote the Companion Pet 
                             World business and CPW token.</span></b></font></p>
-                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="mainimg/8-1.jpg" width="730" height="814" border="0"></font></p>
+                            <p><font face="Inter">&nbsp;&nbsp;&nbsp;<img src="http://companionpetworld.com/mainimg/8-1.jpg" width="730" height="814" border="0"></font></p>
                             <p><font face="Inter"><br></font></p>
                             <p><font face="Inter"><span style="font-size:18pt;"><b>Companion Pet World’s vision, 
                             Suggestion of New PET World</b></span></font></p>
                             <p><font face="Inter"><span style="font-size:14pt;"><b>Companion animal distribution 
                             town</b></span></font></p>
-                            <p><font face="Inter"><img src="mainimg/8-2.jpg" width="730" height="746" border="0"></font></p>
+                            <p><font face="Inter"><img src="http://companionpetworld.com/mainimg/8-2.jpg" width="730" height="746" border="0"></font></p>
                             <p><font face="Inter">&nbsp;</font></p>
                             <p><font face="Inter"><span style="font-size:28pt;"><b>9. Notice</b></span></font></p>
                             <p> <font face="Inter"><span style="font-size:14pt;"><b>Risk Factor Notice </b></span></font></p>
@@ -561,4 +564,3 @@
 <p>&nbsp;</p>
 </body>
 
-</html>
